@@ -1,0 +1,2 @@
+Articles
+Adiele, J.G., Schut, A.G.T., Ezui, K.S., & Giller, K.E. (2022). LINTUL-Cassava-NPK: A simulation model for nutrient-limited cassava growth. Field Crops Research, 281, 108488. https://doi.org/10.1016/j.fcr.2022.108488
